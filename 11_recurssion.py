@@ -7,3 +7,5 @@ def factorial(n):
 
 # Example usage:
 print(factorial(5))  # Should print 120
+print(factorial(999))
+print(factorial(1001)) # RecursionError: maximum recursion depth exceeded

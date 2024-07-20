@@ -26,6 +26,7 @@ print("Your string ends with.".endswith("."))   # True
 # isNumeric
 print("Amina".isnumeric())   # False
 print("123456".isnumeric())   # True
+print("xyzzy".isalpha())    # prints True
 
 # int to convert into actual number from string
 number = '090078601'
@@ -41,3 +42,16 @@ print("...".join(["This","is","another","string."]))
 
 # split
 print("Hello Everyone, I am here :)".split())
+
+# Example of using string.replace(old, new)
+
+# Original string
+original_string = "Hello Anamta, welcome to the programming world!"
+
+# Replacing a substring within the string
+# Replace "Anamta" with "Ahmed"
+modified_string = original_string.replace("Anamta", "Ahmed")
+
+# Print the original and modified strings
+print("Original string:", original_string)
+print("Modified string:", modified_string)

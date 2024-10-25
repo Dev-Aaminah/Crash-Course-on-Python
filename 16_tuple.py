@@ -1,6 +1,13 @@
+# tuples are immuatble datatype
 
 fullname = ('Grace', 'M', 'Hopper')     # modifying isn't allowed in tuples
 print(fullname)
+
+full_name = fullname
+full_name[1] = 'Mark' # this will print error
+# The TypeError: 'tuple' object does not support item assignment occurs because tuples in Python are immutable, meaning that once a tuple is created, its values cannot be changed. This includes adding, removing, or modifying any of its elements.
+print(fullname)
+print(full_name)
 
 def convert_seconds(seconds):
     hours = seconds // 3600

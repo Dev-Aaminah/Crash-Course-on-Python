@@ -45,3 +45,39 @@ print(fruits)  # Print the updated list
 # Replacing an element in the list
 fruits[2] = "Strawberry"  # Replace the element at index 2 with 'Strawberry'
 print(fruits)  # Print the updated list
+
+print("Sorted list")
+fruits.sort()
+print(fruits)
+
+print("Sorted list in reverse")
+fruits.sort(reverse=True)
+print(fruits)
+
+print("Sorted version of list instead of altering original list")
+# sorted(fruits) # sorted() function does not return the list in place. It returns the sorted version of list. Achieve this we'll need it to store in a variable.
+# print()
+
+sorted_fruits = sorted(fruits)
+print(sorted_fruits)
+
+# indexing
+fruits_index = fruits.index('Banana')
+print(fruits_index)
+
+# in , not in operator
+print('Art' in fruits)
+print('Banana' not in fruits)
+
+for fruit in fruits:
+    print(fruit)
+    
+# enumerate function
+# it returns two values, index and value
+
+for index, fruit in enumerate(fruits, start=1) :
+    print(index, fruit)
+    
+print(fruits)
+fruits_string = ', '.join(fruits)
+print(fruits_string)

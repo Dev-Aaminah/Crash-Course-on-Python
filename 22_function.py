@@ -45,3 +45,18 @@ def greeting(**kwargs):
     for key, value in kwargs.items():
         print(f'{key}: {value}')
 greeting(name='Aaminah', city='Rawalpindi')
+
+# another practice for args and kwargs
+def students(*args, **kwargs):
+    print(args) # will return tuple 
+    print(kwargs) # will return dict
+    
+students('Smith', 'John', 'Allen', classes='second year', batch_no=11, ages=17)
+
+# more on *args and **kwargs
+def students_info(*args, **kwargs):
+    print(args)
+    print(kwargs)
+courses=['Math', 'Comp Sci']
+marks={'maths':12, 'compsci':15}
+students_info(*courses, **marks)

@@ -39,7 +39,7 @@ def say_name(name):
 # Test the decorated function
 say_name("Aaminah")
 
-# ///////////////////
+# /////////////////// #
 
 def log_execution(original_func):
     def wrapper_func(*args, **kwargs):
@@ -51,6 +51,4 @@ def log_execution(original_func):
 @log_execution
 def say_name(name):
     print('My name is {}'.format(name))
-
-# Test the decorated function
 say_name("Aaminah")

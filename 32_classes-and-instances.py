@@ -62,3 +62,17 @@ class Dog():
 
 puppy = Dog('bunty', 'australian')
 print(puppy.bark())
+
+# Exercise 1: Add Employees
+# Create employees using the Employees class.
+# Print their full name and email using the fullname() method.
+
+class Emp:
+    def __init__(self, first_name, last_name):
+        self.first_name = first_name
+        self.last_name = last_name
+    def fullname(self):
+        return f"Full name is {self.first_name} {self.last_name} & Email is {self.first_name[0]}{self.last_name}123@gmail.com"
+
+employee1 = Emp('Abrish', 'Saim')
+print(Emp.fullname(employee1))

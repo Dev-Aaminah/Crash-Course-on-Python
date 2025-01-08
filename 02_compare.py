@@ -1,3 +1,8 @@
+# Purpose of try except
+# if-else: Used for conditional branching based on logical expressions or comparisons.
+# Example: If a condition is true, execute one block of code; otherwise, execute another.
+# try-except: Used for exception handling, which helps manage and respond to runtime errors (like division by zero, file not found, etc.).
+
 # Comparison of an integer with a string using the '>' operator
 try:
     result = 1 > "1"  # This will raise a TypeError

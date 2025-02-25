@@ -1,0 +1,25 @@
+2025-02-25 22:14:53,726 - __main__- Tried to divide by zero
+2025-02-25 22:15:57,466 - __main__- Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\Python\Python-Coursera\Crash-Course-on-Python\44_log-sample.py", line 40, in divide
+    result= x/y
+            ~^~
+ZeroDivisionError: division by zero
+2025-02-25 22:19:11,383 - __main__- Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\Python\Python-Coursera\Crash-Course-on-Python\44_log-sample.py", line 45, in divide
+    result= x/y
+            ~^~
+ZeroDivisionError: division by zero
+2025-02-25 22:20:06,977 - __main__- Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\Python\Python-Coursera\Crash-Course-on-Python\44_log-sample.py", line 46, in divide
+    result= x/y
+            ~^~
+ZeroDivisionError: division by zero
+2025-02-25 22:25:27,499 - __main__- Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\Python\Python-Coursera\Crash-Course-on-Python\44_log-sample.py", line 79, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero

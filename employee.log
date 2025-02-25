@@ -1,8 +1,34 @@
-2025-02-25 19:59:59,459 - root- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>-50000
-2025-02-25 19:59:59,459 - root- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>-60000
-2025-02-25 20:02:26,820 - root- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>-50000
-2025-02-25 20:02:26,820 - root- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>-60000
-2025-02-25 20:02:26,820 - root- Addition of 3 and 4 gives us: 7
-2025-02-25 20:02:26,820 - root- Subtraction of 3 and 4 gives us: -1
-2025-02-25 20:02:26,820 - root- Multiplication of 3 and 4 gives us: 12
-2025-02-25 20:02:26,821 - root- Division of 3 and 4 gives us: 0.75
+2025-02-25 21:43:11,341 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:43:11,341 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:44:35,826 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:44:35,826 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:52:15,429 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:52:15,429 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:52:32,687 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:52:32,687 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:53:30,676 - __main__- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:53:30,676 - __main__- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:55:25,420 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:55:25,420 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 21:55:53,070 - __main__- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 21:55:53,070 - __main__- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:08:01,738 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:08:01,739 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:09:50,683 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:09:50,683 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:10:10,100 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:10:10,100 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:10:28,211 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:10:28,211 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:13:34,238 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:13:34,238 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:14:53,725 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:14:53,725 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:15:57,465 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:15:57,466 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:19:11,382 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:19:11,382 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:20:06,976 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:20:06,976 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>
+2025-02-25 22:25:27,498 - employee- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>
+2025-02-25 22:25:27,498 - employee- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>

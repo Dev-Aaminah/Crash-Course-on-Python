@@ -1,4 +1,8 @@
-2025-02-24 20:57:41,705 - INFO- Employee1: Corey Schafer - CoreySchafer@gmail.com
-2025-02-24 20:57:41,706 - INFO- Employee2: Steven Schafer - StevenSchafer@gmail.com
-2025-02-24 21:47:27,069 - root- Employee1: Corey Schafer - CoreySchafer@gmail.com
-2025-02-24 21:47:27,070 - root- Employee2: Steven Schafer - StevenSchafer@gmail.com
+2025-02-25 19:59:59,459 - root- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>-50000
+2025-02-25 19:59:59,459 - root- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>-60000
+2025-02-25 20:02:26,820 - root- Created Employee: <bound method Employee.fullname of Employee('Corey','Schafer','60000').>-50000
+2025-02-25 20:02:26,820 - root- Created Employee: <bound method Employee.fullname of Employee('Steven','Schafer','60000').>-60000
+2025-02-25 20:02:26,820 - root- Addition of 3 and 4 gives us: 7
+2025-02-25 20:02:26,820 - root- Subtraction of 3 and 4 gives us: -1
+2025-02-25 20:02:26,820 - root- Multiplication of 3 and 4 gives us: 12
+2025-02-25 20:02:26,821 - root- Division of 3 and 4 gives us: 0.75
